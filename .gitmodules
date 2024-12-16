@@ -1,0 +1,3 @@
+[submodule "emergent-frontend"]
+	path = emergent-frontend
+	url = https://github.com/KaBankz/emergent-frontend
